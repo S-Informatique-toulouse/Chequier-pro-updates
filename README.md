@@ -29,6 +29,7 @@ Consultez le fichier [changelog.txt](changelog.txt) pour le détail des modifica
 1. Téléchargez `ChequierPro.zip` depuis la section **Releases**
 2. Extrayez le dossier où vous le souhaitez sur votre PC
 3. Double-cliquez sur **ChequierPro.exe**
+"Lors du premier lancement, Windows affiche un avertissement de sécurité. Cliquez sur Informations complémentaires puis Exécuter quand même — c'est normal pour toute application indépendante non encore référencée par Microsoft."
 4. Entrez votre clé de licence au premier lancement
 5. Renseignez vos informations dans l'onglet **Paramètres**
 
