@@ -1,4 +1,5 @@
-- Version initiale
-- Gestion chèques Peugeot et Citroën
+- Misa a jour automatique
+- Gestion chèques
 - Export Excel
 - Impression lettre d'accompagnement
+- licence unique par poste
